@@ -1,0 +1,23 @@
+{
+  "name": "clacks-message-formatter",
+  "version": "0.1.0",
+  "description": "Message formatting and validation plugin for the clacks-p2p ecosystem",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AlexanderParker/clacks-message-formatter.git"
+  },
+  "keywords": [
+    "clacks-p2p",
+    "p2p",
+    "nodejs"
+  ],
+  "author": "Alex Parker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexanderParker/clacks-message-formatter/issues"
+  },
+  "homepage": "https://github.com/AlexanderParker/clacks-message-formatter#readme"
+}
